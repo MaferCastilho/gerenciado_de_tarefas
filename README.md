@@ -25,12 +25,12 @@ Arrays no PHP são estruturas para armazenamento de informações do tipo chave/
 é utilizada para recuperar dados enviados para o servidor através da URL. Esses dados são visíveis na própria URL, o que os torna mais vulneráveis a olhares curiosos.  
 
 🟢`array_push():`  
-Adiciona um ou mais elementos no final de um array.  
+Adiciona um ou mais elementos no final de um array.    
 
-🟢`var_dump():` 
+🟢`var_dump():`  
 Esta função mostra na saída uma informação estruturada sobre uma ou mais expressões, incluindo o tipo e o valor.  
 
-🟢`unset():`  
+🟢`unset():`   
 destrói as variáveis especificadas.  
 
 ## 📱Tecnologias Utilizadas
