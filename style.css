@@ -71,7 +71,7 @@ body {
 }
  
 .form button:hover {
-    background: #062855;
+    background: #650a99;
  
 }
  
@@ -92,10 +92,10 @@ body {
 }
  
 .list-tasks ul li {
-    background: #70aca6;
+    background: #995edd;
     height: 32PX;
     border-radius: 4px;
-    color: rgb(69, 119, 163);
+    color: rgb(255, 255, 255);
     margin-top: 4px;
     margin-bottom: 4px;
     padding: 12px;
@@ -108,11 +108,11 @@ body {
 }
  
 .list-tasks ul li:hover {
-    background: #4c6966;
+    background: #9c53e0;
 }
  
 .btn-clear{
-    background:rgb(233, 21, 21);
+    background:rgb(104, 3, 3);
     height: 32PX;
     border: none;
     border-radius: 4px;
