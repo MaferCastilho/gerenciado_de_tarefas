@@ -41,5 +41,3 @@ destrói as variáveis especificadas.
 
 ## 🔆Créditos
 ◽[Monolito](https://www.youtube.com/watch?v=dJ49I-QYYUk&ab_channel=MonolitoPHP)  
-
-

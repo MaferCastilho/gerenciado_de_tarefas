@@ -59,7 +59,7 @@ body {
 }
  
 .form button {
-    background: #ab47bc;
+    background: #ad78b6;
     height: 32PX;
     border: none;
     border-radius: 4px;
@@ -71,7 +71,7 @@ body {
 }
  
 .form button:hover {
-    background: #ce93d8;
+    background: #5b9aaa;
  
 }
  
